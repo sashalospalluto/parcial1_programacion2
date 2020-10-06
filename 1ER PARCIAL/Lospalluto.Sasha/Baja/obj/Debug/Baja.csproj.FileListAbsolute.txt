@@ -1,0 +1,10 @@
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\bin\Debug\Baja.exe.config
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\bin\Debug\Baja.exe
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\bin\Debug\Baja.pdb
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.FrmBaja.resources
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.Properties.Resources.resources
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.exe
+C:\Users\sasha\source\repos\Lospalluto.Sasha\Baja\obj\Debug\Baja.pdb
